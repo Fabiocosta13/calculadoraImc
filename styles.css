@@ -1,0 +1,79 @@
+body {
+  background-color: rgb(248, 230, 241);
+  padding: 20px;
+  font-style: italic;
+  font-size: 20px;
+}
+
+h1 {
+  position: sticky;
+}
+
+.texto {
+  font-style: italic;
+  text-align: justify;
+  background-color: beige;
+  border: rgb(214, 213, 213) 2px solid;
+  padding: 10px;
+  width: 520px;
+  display: grid;
+  font-size: 18px;
+}
+
+.container {
+  border: rgb(214, 213, 213) 2px solid;
+  padding: 10px;
+  width: 520px;
+  background-color: rgb(171, 202, 214);
+}
+
+#alt {
+  font-size: 18px;
+}
+
+#peso {
+  font-size: 18px;
+}
+
+#btnCalcular {
+  background-color: rgb(71, 71, 66);
+  color: #fff;
+  border: rgb(15, 15, 15) 2px solid;
+  padding: 5px 30px;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.result {
+  font-style: italic;
+  font-size: 18px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+}
+
+/*CLASSES PARA AS CORES DO CAMPO RESPOSTA
+
+.amarelo {
+  background-color: yellow;
+}
+
+.verde {
+  background-color: green;
+  color: #fff;
+}
+.laranja {
+  background-color: orangered;
+  color: #fff;
+}
+
+.vermelho {
+  background-color: red;
+  color: #fff;
+}
+
+.vinho {
+  background-color: rgb(56, 6, 6);
+  color: #fff;
+}
+   */
